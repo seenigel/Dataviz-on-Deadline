@@ -32,7 +32,7 @@ Go ahead and try it out with these two photos:
 [TimelineJS](https://timeline.knightlab.com/) is another knightlab tool that lets you create interactive timelines that are powered by a Google spreadsheet that (and your editor!!) can go back and edit at any time. 
 
 Example: 
-	* [Jamaica Dairy Timeline](https://www.dnainfo.com/new-york/20160826/jamaica/timeline-look-back-at-century-old-elmhurst-dairy-before-it-closes)
+* [Jamaica Dairy Timeline](https://www.dnainfo.com/new-york/20160826/jamaica/timeline-look-back-at-century-old-elmhurst-dairy-before-it-closes)
 
 Using it is very straightforward: 
 * Knightlab gives you a [sample spreadsheet](https://drive.google.com/previewtemplate?id=1pHBvXN7nmGkiG8uQSUB82eNlnL8xHu6kydzH_-eguHQ&mode=public) that you then create a copy of and fill in with your data. 
@@ -41,7 +41,7 @@ Using it is very straightforward:
 * When satisfied, copy the embed code and paste it into the CMS.
 
 ## StorymapJS
-Another tool by the Knigtlab (*boy, they sure do make a lot of great data tools*) that can let you create maps that are tied to events. (Think of them as timelines, but with a map behind them.)
+[StorymapJS](https://storymap.knightlab.com) is another tool by the Knigtlab (*boy, they sure do make a lot of great data tools*) that can let you create maps that are tied to events. (Think of them as timelines, but with a map behind them.)
 
 Examples:
 * [How Chelsea Bomber was Found](https://www.dnainfo.com/new-york/20160919/chelsea/timeline-how-ahman-khan-rahami-was-found)
@@ -49,7 +49,7 @@ Examples:
 * [Follow Ebola Patient's Steps](https://www.dnainfo.com/new-york/20141024/west-harlem/timeline-follow-new-york-ebola-patients-steps)
 
 ## Atlas
-Atlas is a tool created by Quartz that can be used to very easily create bar and line charts using data from Excel or Google Spreadsheets.
+[Quartz Atlas](https://www.theatlas.com/) is a tool created by Quartz that can be used to very easily create bar and line charts using data from Excel or Google Spreadsheets.
 
 ## Qzzr and Pollcaster
 
