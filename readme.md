@@ -13,7 +13,7 @@ The purpose of this session is to get you up to speed on common (AND FREE) tools
 6. [Carto](https://carto.com/) (For maps)
 
 ## Session Permalink
-These notes and the sample data will remain on my github at INSERT ADDRESS for the forseeable future.
+These notes and the sample data will remain on my github at [https://github.com/seenigel/Dataviz-on-Deadline](https://github.com/seenigel/Dataviz-on-Deadline) for the forseeable future.
 
 ## Before we get started
 You'll need to to create logins for [Carto](https://carto.com/signup) and [Atlas](https://www.theatlas.com/register).
