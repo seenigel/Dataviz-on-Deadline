@@ -44,9 +44,9 @@ Using it is very straightforward:
 Another tool by the Knigtlab (*boy, they sure do make a lot of great data tools*) that can let you create maps that are tied to events. (Think of them as timelines, but with a map behind them.)
 
 Examples:
-	* [How Chelsea Bomber was Found](https://www.dnainfo.com/new-york/20160919/chelsea/timeline-how-ahman-khan-rahami-was-found)
-	* [NYPD Shooter Timeline](https://www.dnainfo.com/new-york/20141221/bed-stuy/man-who-killed-nypd-officers-told-bystanders-watch-what-im-going-do)
-	* [Follow Ebola Patient's Steps](https://www.dnainfo.com/new-york/20141024/west-harlem/timeline-follow-new-york-ebola-patients-steps)
+* [How Chelsea Bomber was Found](https://www.dnainfo.com/new-york/20160919/chelsea/timeline-how-ahman-khan-rahami-was-found)
+* [NYPD Shooter Timeline](https://www.dnainfo.com/new-york/20141221/bed-stuy/man-who-killed-nypd-officers-told-bystanders-watch-what-im-going-do)
+* [Follow Ebola Patient's Steps](https://www.dnainfo.com/new-york/20141024/west-harlem/timeline-follow-new-york-ebola-patients-steps)
 
 ## Atlas
 Atlas is a tool created by Quartz that can be used to very easily create bar and line charts using data from Excel or Google Spreadsheets.
@@ -56,9 +56,9 @@ Atlas is a tool created by Quartz that can be used to very easily create bar and
 These are tools that can be used to create Quizzes and single-question polls that look pretty and display live results.
 
 Example: 
-	* Multi-Option Poll: [Subway Behavior Poll](https://www.dnainfo.com/new-york/20160407/inwood/vote-whats-most-obnoxious-behavior-youve-seen-on-subway)
-	* This or That Poll: [Daredevil and Hell's Kitchen](https://www.dnainfo.com/new-york/20160325/hells-kitchen-clinton/okay-daredevil-no-one-has-ever-called-hells-kitchen-kitchen)
-	* Quiz: [How Well Do You Know the Boroughs?](https://www.dnainfo.com/new-york/20160510/st-george/quiz-can-you-recognize-nyc-borough-by-its-shape)
+* Multi-Option Poll: [Subway Behavior Poll](https://www.dnainfo.com/new-york/20160407/inwood/vote-whats-most-obnoxious-behavior-youve-seen-on-subway)
+* This or That Poll: [Daredevil and Hell's Kitchen](https://www.dnainfo.com/new-york/20160325/hells-kitchen-clinton/okay-daredevil-no-one-has-ever-called-hells-kitchen-kitchen)
+* Quiz: [How Well Do You Know the Boroughs?](https://www.dnainfo.com/new-york/20160510/st-george/quiz-can-you-recognize-nyc-borough-by-its-shape)
 
 ## Carto
 *Formerly known as CartoDB*
