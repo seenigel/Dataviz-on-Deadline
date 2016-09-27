@@ -65,7 +65,7 @@ Example:
 
 Carto is a mapping tool that lets you take information from a spreadsheet and very easily put that data on a map for either presentation or analysis.
 
-Carto is a little tricky to wrap your head around becuase it revolves around the two models: **datasets** and **maps**.
+[Carto](https://carto.com/) is a little tricky to wrap your head around becuase it revolves around the two models: **datasets** and **maps**.
 * A dataset is the data you've uploaded (say a list of new restuarants or a building developments)
 * A map is how you visualize that dataset. You can use a dataset in multple maps.
 
